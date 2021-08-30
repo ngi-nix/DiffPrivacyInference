@@ -5,6 +5,8 @@ This project uses both Julia and Haskell, a Julia package with a Haskell backend
 
 The Flake can successfuly build the Haskell backend, but the Julia frontend part still needs to be done.
 
+The frontend Flake has some problems when cloning the the packages to build.
+
 Repos: \
 https://github.com/DiffMu/DiffPrivacyInference.jl \
 https://github.com/DiffMu/DiffPrivacyInferenceHs
