@@ -1,0 +1,12 @@
+name = "DiffPrivacyInference"
+uuid = "c8299d45-9e08-47ef-a7b3-00cf4f8f6652"
+authors = ["ooovi <githooovi@posteo.de>"]
+version = "0.1.0"
+
+[deps]
+CodeTracking = "da1fd8a2-8d9e-5ec2-8556-3022fb5608a2"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+MLStyle = "d8e11817-5142-5d16-987a-aa16d5891078"
+SimplePosets = "b2aef97b-4721-5af9-b440-0bad754dc5ba"
+SymbolicUtils = "d1185830-fcd6-423d-90d6-eec64667417b"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
